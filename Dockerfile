@@ -1,3 +1,5 @@
+# Author: nickmao
+
 FROM jupyter/base-notebook
 
 RUN apt-get update
